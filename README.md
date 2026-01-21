@@ -16,6 +16,8 @@ No deployment required — simply run the Python HCL2 guardrail script to valida
 - **Week 3.5:** [week-3.5](https://github.com/la-moss/week-3.5)
 - **Week 4:** [week-4](https://github.com/la-moss/week-4)
 - **Week 5:** [Week-5](https://github.com/la-moss/Week-5)
+- **Week 6:** [Week-6](https://github.com/la-moss/Week-6)
+
 
 ### Generate Your Own Lab (AI-Powered)
 Need a fresh production-style ticket + broken repo on demand?  
