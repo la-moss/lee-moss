@@ -10,15 +10,35 @@ Production-style ticket → intentionally broken repo → clone → investigate 
 No deployment required — simply run the Python HCL2 guardrail script to validate and surface unmet conditions.
 
 ### Start Here
-- **Week 1:** [week-1](https://github.com/la-moss/week-1)
-- **Week 2:** [week-2](https://github.com/la-moss/week-2)
-- **Week 3:** [week-3](https://github.com/la-moss/week-3)
-- **Week 3.5:** [week-3.5](https://github.com/la-moss/week-3.5)
-- **Week 4:** [week-4](https://github.com/la-moss/week-4)
-- **Week 5:** [Week-5](https://github.com/la-moss/Week-5)
-- **Week 6:** [Week-6](https://github.com/la-moss/Week-6)
-- **Week 7:** [Week-7](https://github.com/la-moss/Week-7)
-- **Week 8:** [Week-8](https://github.com/la-moss/Week-8)
+- **Week 1 — When “Allowed” Traffic Still Can’t Leave the VNet**  
+  https://github.com/la-moss/week-1
+
+- **Week 2 — DR Failover That Works… Until You Actually Need It**  
+  https://github.com/la-moss/week-2
+
+- **Week 3 — Identity Looks Correct. Access Still Fails.**  
+  https://github.com/la-moss/week-3
+
+- **Week 3.5 — Automation Identities and the Illusion of Least Privilege**  
+  https://github.com/la-moss/week-3.5
+
+- **Week 4 — Private Endpoints, Private DNS, and the Lies They Tell You**  
+  https://github.com/la-moss/week-4
+
+- **Week 5 — The Cluster Is “Healthy” (Until You Need Telemetry)**  
+  https://github.com/la-moss/Week-5
+
+- **Week 6 — Security Guardrails That Pass… and Still Leave You Exposed**  
+  https://github.com/la-moss/Week-6
+
+- **Week 7 — CI/CD Is Green, but the Platform Isn’t**  
+  https://github.com/la-moss/Week-7
+
+- **Week 8 — Shared Terraform Modules as a Hidden Control Plane**  
+  https://github.com/la-moss/Week-8
+
+- **Week 9 — Routes Exist. Traffic Still Doesn’t Flow.**  
+  https://github.com/la-moss/Week-9
 
 
 ### Generate Your Own Lab (AI-Powered)
