@@ -19,7 +19,12 @@ Ticket → broken environment → deploy → investigate → fix → verify → 
 ### Start Here
 
 - **Week A — Auth Failures Across Endpoints (Kubernetes Runtime Incident)**  
-  https://github.com/la-moss/Kubernetes-Auth-failures-across-endpoints  
+  https://github.com/la-moss/Kubernetes-Auth-failures-across-endpoints
+
+---
+
+
+  ### Legacy Static Guardrail Labs:
 
 - **Week 1 — When "Allowed" Traffic Still Can't Leave the VNet**  
   https://github.com/la-moss/week-1  
