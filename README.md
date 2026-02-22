@@ -16,9 +16,9 @@ Ticket → broken environment → deploy → investigate → fix → verify → 
 
 ---
 
-### Start Here
+### Start Here with my new Kubernetes Labs
 
-- **Week A — Auth Failures Across Endpoints (Kubernetes Runtime Incident)**  
+- **Week 10 — Auth Failures Across Endpoints (Kubernetes Runtime Incident)**  
   https://github.com/la-moss/Kubernetes-Auth-failures-across-endpoints
 
 ---
