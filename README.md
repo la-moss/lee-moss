@@ -6,7 +6,7 @@ I build and support secure Azure infrastructure with a focus on **Terraform, gov
 
 Most of my work sits at the **foundation layer**: landing zones, policy guardrails, RBAC, CI/CD, and the standards that make cloud environments **repeatable, secure, and easier to operate at scale**.
 
-I am particularly interested in what happens when platforms drift from design into reality, where **routing, identity, policy, or runtime behaviour** expose flaws that architecture diagrams never show. That is why I also build **hands-on incident labs** to practise debugging, failure isolation, and root-cause analysis under pressure.
+I am particularly interested in what happens when platforms drift from design into reality, where **routing, identity, policy, or runtime behaviour** expose flaws that architecture diagrams never show. That is why I also build **hands-on incident labs** to practice debugging, failure isolation, and root-cause analysis under pressure.
 
 Everything shared publicly is built in **personal sandbox environments only**.
 
