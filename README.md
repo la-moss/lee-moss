@@ -1,77 +1,87 @@
-## Lee Moss — Production Incident Labs  
-Azure Infrastructure Engineer (UK Home Office) | Kubernetes, IaC, DevOps  
+# Lee Moss
 
-I publish **weekly repo-based incident challenges** that simulate real SEV-style failures.
+**Azure Platform Engineer building secure, governed cloud foundations with Terraform, landing zones, identity, and platform-focused incident labs.**
 
-Some run live in Kubernetes (Kind-based).  
-Others focus on Azure/Terraform platform reasoning.
+I build and support secure Azure infrastructure with a focus on **Terraform, governance, identity, and hybrid platform design**.
 
-You clone a broken repo, investigate real signals, identify root cause, implement fixes, and validate behaviour under pressure — like a live platform incident.
+Most of my work sits at the **foundation layer**: landing zones, policy guardrails, RBAC, CI/CD, and the standards that make cloud environments **repeatable, secure, and easier to operate at scale**.
 
----
+I am particularly interested in what happens when platforms drift from design into reality, where **routing, identity, policy, or runtime behaviour** expose flaws that architecture diagrams never show. That is why I also build **hands-on incident labs** to practise debugging, failure isolation, and root-cause analysis under pressure.
 
-### Weekly Loop
-
-Ticket → broken environment → deploy → investigate → fix → verify → compare with walkthrough.
+Everything shared publicly is built in **personal sandbox environments only**.
 
 ---
 
-### Start Here with my new Kubernetes Labs
+## What I Focus On
 
-- **Week 10 — Auth Failures Across Endpoints (Kubernetes Runtime Incident)**  
-  https://github.com/la-moss/Kubernetes-Auth-failures-across-endpoints
-
----
-
-
-  ### Legacy Static Guardrail Labs:
-
-- **Week 1 — When "Allowed" Traffic Still Can't Leave the VNet**  
-  https://github.com/la-moss/week-1  
-
-- **Week 4 — Private Endpoints, Private DNS, and the Lies They Tell You**  
-  https://github.com/la-moss/week-4  
-
-- **Week 8 — Shared Terraform Modules as a Hidden Control Plane**  
-  https://github.com/la-moss/Week-8  
-
-- **Week 9 — Routes Exist. Traffic Still Doesn't Flow.**  
-  https://github.com/la-moss/Week-9  
-
-Full archive: https://github.com/la-moss
+- Azure platform engineering
+- Terraform and infrastructure delivery
+- Landing zones and cloud foundations
+- Governance, policy, and guardrails
+- Entra ID, RBAC, and least-privilege design
+- Hybrid networking and platform reliability
+- Incident debugging and failure analysis
 
 ---
 
-### What You'll Practice
+## Current Areas of Interest
 
-- Kubernetes reliability and incident debugging  
-- Service resilience: timeouts, retries, readiness, rollout safety  
-- Networking diagnostics (DNS, routes, hub/spoke, private endpoints)  
-- IAM/RBAC and least-privilege controls  
-- DR/failover readiness and blast-radius limits  
-- IaC design trade-offs and platform coupling  
-- Operational discipline: logs, diffs, verification, change control  
-
----
-
-### Foundation (Legacy Track)
-
-Earlier labs focused on **Azure/Terraform guardrails and static validation** — building audit and enforcement instincts before runtime.
-
-Those repos remain available in the archive.
+- Secure Azure platform foundations
+- Terraform module design and infrastructure workflows
+- Azure Policy and governance at scale
+- Identity and access design across platform environments
+- Hybrid and private networking patterns
+- Failure-mode thinking and platform troubleshooting
+- Repo-based incident labs for realistic debugging practice
 
 ---
 
-### Generate Your Own Lab (AI-Powered)
-Need a fresh production-style ticket + broken repo on demand?  
-Supports any cloud provider and IaC tool (Azure, AWS, GCP, Terraform, etc.).  
-➡️ **InfraTickets (Custom GPT):** [Generate incident lab](https://chatgpt.com/g/g-69087d89f1288191bc986d18be68aff8-iac-incident-lab-repo-ticket-generator)
+## Incident Labs
+
+Alongside platform engineering work, I build **repo-based incident labs** based on realistic failure modes.
+
+These labs are designed to simulate the kind of issues that appear when systems move from clean architecture diagrams into live environments, where the real problem is often hidden behind misleading symptoms.
+
+Typical areas include:
+
+- DNS and routing failures
+- Private endpoint and private DNS issues
+- IAM / RBAC and access-control problems
+- Terraform design and coupling risks
+- Guardrail and governance failures
+- Runtime instability and verification failures
+- Failure isolation and root-cause analysis under pressure
+
+The goal is simple: **clone a broken repo, investigate signals, identify root cause, implement a fix, and verify behaviour**.
 
 ---
 
-New incident lab every Monday + walkthroughs on LinkedIn:  
-https://linkedin.com/in/lam-ai  
+## What You’ll Find Here
 
-All content is built in a personal sandbox.  
-No employer systems or data involved.  
-All views are my own.
+This GitHub is mainly used for:
+
+- platform and infrastructure projects
+- Terraform-based work
+- governance and identity-focused repos
+- incident lab repositories
+- experiments related to platform reliability and failure analysis
+
+---
+
+## Principles Behind My Public Work
+
+- Build in sandbox only
+- Keep infrastructure work practical
+- Focus on foundations before hype
+- Prefer clear reasoning over tool-chasing
+- Treat troubleshooting as a core engineering skill
+- Share work that reflects real operational problems, not just ideal-state architecture
+
+---
+
+## Note
+
+All content shared here is built in **personal sandbox environments only**.  
+No employer systems, data, or internal configurations are used.
+
+---
